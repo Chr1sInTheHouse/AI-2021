@@ -1,0 +1,7 @@
+(AISTATS 2011) Contextual Bandits with Linear Payoff Functions
+(ICML 2013) Thompson Sampling for Contextual Bandits with Linear Payoffs
+(ICML 2020) Neural Contextual Bandits with UCB-based Exploration
+(NeurIPS 2020, under review) Neural Thompson Sampling
+(NeurIPS 2020, under review) Reward-Biased Maximum Likelihood Estimation for Linear Stochastic Bandits
+(NeurIPS 2011) Improved Algorithms for Linear Stochastic Bandits
+(NeurIPS 2017)Scalable Generalized Linear Bandits: Online Computation and Hashing
